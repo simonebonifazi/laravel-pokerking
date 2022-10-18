@@ -49883,7 +49883,7 @@ var root = new Vue({
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! C:\laravel\laravel-auth\resources\js\front.js */"./resources/js/front.js");
+module.exports = __webpack_require__(/*! C:\Users\LENOVO\Desktop\laravel-pokerking\resources\js\front.js */"./resources/js/front.js");
 
 
 /***/ })
