@@ -13,7 +13,7 @@ class TagSeeder extends Seeder
      */
     public function run(Faker $faker)
     {
-        $labels = ['FrontEnd', 'BackEnd', 'FullStack'];
+        $labels = ['first_steps','intermediate' , 'advanced' , 'reg' , 'protip' ];
 
         foreach($labels as $label)
         {
